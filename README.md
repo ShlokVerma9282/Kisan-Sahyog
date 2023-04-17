@@ -1,4 +1,4 @@
-# Atmanirbhar Farm Portal
+# Krishi Sahyog
 > Description:  
 > A unique user friendly portal for farmers that suggests crops according to the location, profit, soil type, etc. The Farm Portal should help farmers get updates regarding all the agriculture related news and also shows the weather conditions of a particular area to which the farmer gets crop suggestion accordingly.
 
@@ -11,8 +11,6 @@
 * [Status](#status)
 * [Contributors](#contributors)
 
-## Deployed_Project_Link:
-[https://aishwaryaap.github.io/atmanirbhar_farmportal](https://aishwaryaap.github.io/atmanirbhar_farmportal)
 
 ## Technologies
 * HTML, CSS, Bootstrap
@@ -42,14 +40,6 @@
 * Reports of suggested systems
 * Inspirational DIYs for urban Terrace Farming
 
-## Status
-Project is: _in progress_
-
-## Contributors
-Aishwarya Phirke
-Rutuja Gholap
-Tejinderpal Singh
-Atharva Patrudkar
 
 ## Image
 ![](./image.png)
